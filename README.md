@@ -61,7 +61,7 @@ Na camada de serviços eu coloquei toda logica e regra de negocio solicitada com
 
 Foi utilizado o React Vite com Axios, também utilizei o tailwind, lucide-react e o import do pacote de avisos Toast, para baixar os pacotes necessários deve rodar o comando "npm install".
 
-O axios foi utilizado para o consumo da API, já o tailwind é uma forma pratica e moderna de escrever o CSS da pagina. 
+O axios foi utilizado para o consumo da API, já o tailwind é uma forma pratica e moderna de escrever o CSS da pagina, o lucide-react é uma biblioteca de icones para ajudar na estilização agradavel da pagina e o pacote toast é uma biblioteca de avisos.
 
 A estrutura do projeto front poderia ser melhor organizada em pastas mas preferi realizar com modais e os arquivos de chamadas no App.jsx para ocupar menos tempo aumentando a complexidade do projeto. 
 O axios realiza as requisições que preciso utilizando minha URL base e com isso montando consumindo minha API a partir da concatenação da URL base declarado como uma const
